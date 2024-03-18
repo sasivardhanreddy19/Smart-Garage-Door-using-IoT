@@ -1,4 +1,4 @@
-Smart-Garage-Door-using-IoT
+# Smart-Garage-Door-using-IoT
 Door status will be displayed on LCD. IR sensors identifies door status weather door is in open or close condition. This information transmitted to IOT server through WIFI (Esp8266/IOT). User can control door from anywhere using IOT server.
 ![image](https://github.com/sasivardhanreddy19/Smart-Garage-Door-using-IoT/assets/140004731/74754065-5f9c-457a-8bd7-05c80b82ab50)
 ![image](https://github.com/sasivardhanreddy19/Smart-Garage-Door-using-IoT/assets/140004731/60c6c204-5fd8-456a-9f32-e11d1d1acfc0)
